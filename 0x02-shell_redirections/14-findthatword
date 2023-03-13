@@ -1,0 +1,2 @@
+#!/bin/bah
+grep "root" /etc/passwd
