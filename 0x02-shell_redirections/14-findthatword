@@ -1,2 +1,2 @@
 #!/bin/bah
-grep "root" /etc/passwd
+grep root /etc/passwd
