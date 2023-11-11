@@ -37,10 +37,10 @@ The web server's configuration files had a typo in the settings, causing the ser
 Here's a simple diagram illustrating the timeline of the outage:
 ```
 10:02 AM GMT - Users report slow load times and service interruptions.
-20:15 AM GMT - Monitoring alerts and web server logs identify the issue.
-30:40 AM GMT - Web server configuration files are reviewed, and the root cause is identified.
-40:10 AM GMT - Issue is escalated to the web server team.
-50:15 AM GMT - Web server is restarted, resolving the issue and restoring normal service.
+10:15 AM GMT - Monitoring alerts and web server logs identify the issue.
+10:40 AM GMT - Web server configuration files are reviewed, and the root cause is identified.
+11:10 AM GMT - Issue is escalated to the web server team.
+11:15 AM GMT - Web server is restarted, resolving the issue and restoring normal service.
 ```
 # Humor
 To lighten the mood and make the postmortem more engaging, here's a funny anecdote:
